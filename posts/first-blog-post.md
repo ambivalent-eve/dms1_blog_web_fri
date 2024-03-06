@@ -2,6 +2,7 @@
 title: Example DMS1 post!
 published_at: 2024-03-06
 snippet: This is an excerpt of a first blog post
+disable_html_sanitization: true
 ---
 
 ![The golden globe.](/w01s1/IMG_0100.jpg)

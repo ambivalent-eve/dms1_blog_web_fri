@@ -12,4 +12,4 @@ Found a golden globe with my friends, is this how our Earth actually looks like 
 Anyways, excited to meet the people down under!
 
 # For Australia!
-<iframe width="1080" height="1920" src="https://www.youtube.com/embed/Yl8eKxI-zeU?si=uWb--UtBrLrwKx6D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/Yl8eKxI-zeU?si=uWb--UtBrLrwKx6D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

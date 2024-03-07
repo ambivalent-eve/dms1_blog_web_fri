@@ -60,4 +60,4 @@ Now this was particularly tricky, but thanks to me being the only one in the gro
 This was actually one of the first ones we saw, but since it was under maintenance we didn't get a picture. Being the last one we found, we decided to get drinks instead of looking for the basement, since that was impossible for us all. Airiel got scammed though, he paid for a drink that never even came out...
 
 <video src=”30s_vid.mp4” type=”video/mp4” controls >
-< /video >
+</video >

@@ -11,33 +11,33 @@ disable_html_sanitization: true
 
 
 For some reason, some of the videos were zoomed in. Had to click set to frame size to set all of them to be recorded at the same resolution.
-![Alt text](image-1.png)
-![Alt text](image-2.png)
+![Alt text](/w02s1/image-1.png)
+![Alt text](/w02s1/image-2.png)
 Example of how it looks after:
-![Alt text](image.png)
+![Alt text](/w02s1/image.png)
 
 Video is playing very jarringly. Not sure how to fix it? It's not synced very well.
-![Alt text](image-3.png)
+![Alt text](/w02s1/image-3.png)
 Tried fixing it later on at the end, but it didn't work. I ended up using this to my advantage anyway by transforming the video into a VHS aesthetic.
 
-![Alt text](image-4.png)
+![Alt text](/w02s1/image-4.png)
 Had to adjust the brightness and contrast, emboss, colour emboss, etc in order to make the clips all seem older.
 
-![Alt text](image-5.png)
+![Alt text](/w02s1/image-5.png)
 Also adjusted the sound design of the video clips to give off more of a feeling of nostalgia by making the audio sound crispier and outdated through the FFT filter and distortion
 
-![Alt text](image-6.png)
+![Alt text](/w02s1/image-6.png)
 Because there was little to no audio from my clip and Alyssa's, I had to add my own sound effects for the ambience. For the sound of the machine running and the birds chipping, I used lowpass at 20,000 hz cutoff to make them sound far away or to make them quieter. For the machine, I adjusted the audio so that it's louder in the left ear than the right because that's where the machine is.
 Example:
-![Alt text](image-7.png)
+![Alt text](/w02s1/image-7.png)
 
-![Alt text](image-8.png)
+![Alt text](/w02s1/image-8.png)
 In the end, I decided that Jamie's shot of the city shouldn't have the same VHS aesthetic applied to it but rather should stand out on it's own as a 'modern shot.' This way, it creates juxtaposition between the moving, city shot and the still, VHS shots of places at home. 
 
-![Alt text](image-9.png)
+![Alt text](/w02s1/image-9.png)
 For the transitions, I added them so that the cuts in between the shots weren't as sudden. Furthermore, I decided to add sound effects of static to give off the idea that the video is breaking apart and 'reverting to the past.' It's also because the transitions just felt very strange without some audio with it.
 
-![Alt text](image-10.png)
+![Alt text](/w02s1/image-10.png)
 I also made sure that the audio was cut up and lowered/raised depending on how much static there was by going through them frame by frame. 
 
 ## Conclusion

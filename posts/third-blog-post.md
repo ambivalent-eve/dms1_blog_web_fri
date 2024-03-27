@@ -5,7 +5,7 @@ snippet: The second blog
 disable_html_sanitization: true
 ---
 
-![alt text](image.png)
+![alt text](/w02s2/image.png)
 
 A key moment in this video is towards the end, when the character is working towards completing his artwork before jumping to a shot where it shows the completed work. With this video, both sound design and soundtrack will be used to enhance the emotions and themes of the narrative. In the first shot where the character is still working on his artwork, there is an absence of diegetic sound as the character is fully concentrated on drawing. This is represented by the use of music playing in the background, where the music is upbeat and cheerful and the character is still wearing headphones on. When the scene suddenly cuts to the next of the artwork being finished, the non-diegetic music disappears. Instead, the scene is now left with the sounds of silence and ambience sounds, which is a total contrast to how much music there was previously in the next scene. The choice of removing music and making the scene almost silent is coordinated with the visuals of the room being darker with the morning rays going through the curtains. The use of darkness and quietness is done to represent satisfaction and achievement - feelings that I as an artist feel when I finally finish my work and can happily look at the finished product. 
 

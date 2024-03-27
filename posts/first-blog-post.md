@@ -1,5 +1,5 @@
 ---
-title: First Blog - Media Scavenger Hunt
+title: w01s1
 published_at: 2024-03-06
 snippet: The first blog
 disable_html_sanitization: true

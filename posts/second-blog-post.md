@@ -1,5 +1,5 @@
 ---
-title: Second Blog - 30s Video
+title: w02s1
 published_at: 2024-03-12
 snippet: The second blog
 disable_html_sanitization: true

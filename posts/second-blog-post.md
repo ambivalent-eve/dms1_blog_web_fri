@@ -48,6 +48,10 @@ Aside from the juxtaposition of solitude, there is also the theme of missing hom
 
 Ultimately, the video is meant to symbolise the difference in solitude and the idea of missing home. As for what I could've done better, I would've liked to fix the glitchy aspect of Jamie's first clip or improve on the VHS aesthetic to make it look clearer... but perhaps the white, foggy look served a better look for nostalgia? Either way, I could've also improved on my pace on editing, there were some aspects where I took far too long such as having to look for where the effects tab were, or the audio tabs were.
 
+# Classroom Activity of Drawing Storyboard from Film
+
+![alt text](/w02s1/sotd-image-1.png)
+
 ## Concepts
 
 # First Draft of Storyboard
